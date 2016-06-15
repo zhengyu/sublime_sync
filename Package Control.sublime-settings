@@ -8,6 +8,8 @@
 		"AngularJS",
 		"auto-save",
 		"Evernote",
-		"JSCS-Formatter"
+		"Git",
+		"JSCS-Formatter",
+		"Open Folder"
 	]
 }
